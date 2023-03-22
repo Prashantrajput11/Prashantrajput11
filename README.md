@@ -9,10 +9,10 @@ I am Prashant From India.
 
 <!-- Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning :  Node JS, AWS
+- 🔭 I’m currently working on React Js/ React Native
+
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Vanilla Javascript
 - 📫 How to reach me: ...
-- 😄 Pronouns: He/Him
+
 - ⚡ Fun fact: I'm Boring.
