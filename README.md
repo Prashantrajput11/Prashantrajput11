@@ -21,7 +21,7 @@ I'm **Prashant** from India 🇮🇳
 #### 💻 Tech Stack  
 
 - **Frontend**: React.js, React Native, HTML, CSS  
-- **Backend**: Node.js, Express.js (basic knowledge)  
+- **Backend**: Node.js, Express.js, PostgresSql, Drizzle ORM 
 - **Languages**: JavaScript, TypeScript  
 - **Tools & Platforms**: Git, GitHub, Firebase  
 
